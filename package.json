@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/screepers/screeps-typescript-starter#readme",
   "engines": {
-    "node": "10.x || 12.x"
+    "node": "12.20.1"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^20.0.0",
