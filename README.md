@@ -1,3 +1,8 @@
+我对当前仓库做了指定 Node 版本方便之后的处理，当前固定的版本为 Node v12.20.1。
+
+我的 Screeps:Word 地址为 [7zM](https://screeps.com/a/#!/profile/7zM)。
+
+
 # Screeps Typescript Starter
 
 Screeps Typescript Starter is a starting point for a Screeps AI written in Typescript. It provides everything you need to start writing your AI whilst leaving `main.ts` as empty as possible.
