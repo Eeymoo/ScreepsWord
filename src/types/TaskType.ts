@@ -10,7 +10,9 @@ enum TaskType {
   BUILD_EXTENSION,
   MINE,
   BUILD,
-  TRANSFER
+  TRANSFER,
+  TRANSPORT,
+  GATHER
 }
 
 export default TaskType;
