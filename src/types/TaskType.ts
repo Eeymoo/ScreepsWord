@@ -12,7 +12,8 @@ enum TaskType {
   BUILD,
   TRANSFER,
   TRANSPORT,
-  GATHER
+  GATHER,
+  REPAIR
 }
 
 export default TaskType;
